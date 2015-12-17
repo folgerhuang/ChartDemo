@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -94,7 +95,8 @@ namespace ReverseY
             DataTable ExcelTable;
             openFileDialog1.Filter = "Microsoft Excel files(*.xls)|*.xls;*.xlsx";//过滤一下，只要表格格式的
             openFileDialog1.FileName = "";
-            openFileDialog1.InitialDirectory = getPath(Application.StartupPath, 2);
+            //openFileDialog1.InitialDirectory = getPath(Application.StartupPath, 2);
+            openFileDialog1.InitialDirectory = Path.Combine(Application.StartupPath, "Resources");
             openFileDialog1.ShowDialog();
 
             string MyFileName = openFileDialog1.FileName;
