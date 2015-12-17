@@ -1,0 +1,6 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\ExemploID3\bin\Debug\ExemploID3.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\ExemploID3\obj\Debug\ExemploID3.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\ExemploID3\bin\Debug\ExemploID3.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\ExemploID3\bin\Debug\ExemploID3.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\ExemploID3\obj\Debug\ExemploID3.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\ExemploID3\obj\Debug\ExemploID3.pdb

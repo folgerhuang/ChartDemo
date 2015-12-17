@@ -1,0 +1,8 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\bin\Debug\ReverseY.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\bin\Debug\ReverseY.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\obj\Debug\ReverseY.Form1.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\obj\Debug\ReverseY.Properties.Resources.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\obj\Debug\ReverseY.csproj.GenerateResource.Cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\obj\Debug\ReverseY.exe.licenses
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\obj\Debug\ReverseY.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\ReverseY\obj\Debug\ReverseY.pdb

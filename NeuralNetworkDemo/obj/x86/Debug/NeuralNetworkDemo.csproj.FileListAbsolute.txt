@@ -1,0 +1,13 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\NeuralNetworkDemo.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\NeuralNetworkDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\NeuralNetworkDemo.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\Accord.Neuro.dll
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\obj\x86\Debug\NeuralNetworkDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\obj\x86\Debug\NeuralNetworkDemo.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\Accord.dll.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\Accord.dll
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\Accord.Math.dll
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\Accord.xml
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\Accord.Math.xml
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\x86\Debug\Accord.Neuro.xml
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\obj\x86\Debug\NeuralNetworkDemo.csprojResolveAssemblyReference.cache

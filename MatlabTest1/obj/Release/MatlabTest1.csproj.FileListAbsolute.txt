@@ -1,0 +1,11 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Release\MatlabTest1.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Release\MatlabTest1.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Release\MatlabTest1.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Release\myplus.dll
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Release\MatlabTest1.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Release\MatlabTest1.Form1.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Release\MatlabTest1.Properties.Resources.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Release\MatlabTest1.csproj.GenerateResource.Cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Release\MatlabTest1.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Release\MatlabTest1.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Release\Myplotsin.dll

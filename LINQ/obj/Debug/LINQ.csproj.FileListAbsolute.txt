@@ -1,0 +1,6 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\LINQ\bin\Debug\LINQ.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\LINQ\bin\Debug\LINQ.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\LINQ\obj\Debug\LINQ.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\LINQ\obj\Debug\LINQ.pdb

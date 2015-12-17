@@ -1,0 +1,8 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\bin\Debug\TreeViewSQLDemo.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\bin\Debug\TreeViewSQLDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\bin\Debug\TreeViewSQLDemo.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\obj\Debug\TreeViewSQLDemo.Form1.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\obj\Debug\TreeViewSQLDemo.Properties.Resources.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\obj\Debug\TreeViewSQLDemo.csproj.GenerateResource.Cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\obj\Debug\TreeViewSQLDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\TreeViewSQLDemo\obj\Debug\TreeViewSQLDemo.pdb

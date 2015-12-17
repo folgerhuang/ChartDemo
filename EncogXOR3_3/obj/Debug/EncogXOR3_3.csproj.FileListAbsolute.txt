@@ -1,0 +1,7 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\EncogXOR3_3\bin\Debug\EncogXOR3_3.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\EncogXOR3_3\bin\Debug\EncogXOR3_3.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\EncogXOR3_3\bin\Debug\EncogXOR3_3.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\EncogXOR3_3\bin\Debug\encog-core-cs.dll
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\EncogXOR3_3\obj\Debug\EncogXOR3_3.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\EncogXOR3_3\obj\Debug\EncogXOR3_3.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\EncogXOR3_3\obj\Debug\EncogXOR3_3.pdb

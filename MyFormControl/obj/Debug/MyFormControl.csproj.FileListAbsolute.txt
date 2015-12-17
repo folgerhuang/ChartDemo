@@ -1,0 +1,8 @@
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\bin\Debug\MyFormControl.exe.config
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\bin\Debug\MyFormControl.exe
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\bin\Debug\MyFormControl.pdb
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\obj\Debug\MyFormControl.csprojResolveAssemblyReference.cache
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\obj\Debug\MyFormControl.Properties.Resources.resources
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\obj\Debug\MyFormControl.csproj.GenerateResource.Cache
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\obj\Debug\MyFormControl.exe
+c:\users\shiyu\documents\visual studio 2013\Projects\ChartDemo\MyFormControl\obj\Debug\MyFormControl.pdb

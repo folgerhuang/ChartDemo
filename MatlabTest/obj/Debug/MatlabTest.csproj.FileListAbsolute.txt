@@ -1,0 +1,6 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest\bin\Debug\MatlabTest.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest\bin\Debug\MatlabTest.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest\bin\Debug\MatlabTest.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest\obj\Debug\MatlabTest.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest\obj\Debug\MatlabTest.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest\obj\Debug\MatlabTest.pdb

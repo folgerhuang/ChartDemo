@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="ribbonPage1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        fICBjLGefwOKIRJvoBZvzgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="ribbonPage2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsAAAA7AAWrWiQkAAAEHSURBVDhPY/j//z8cWxz5/59UjGKAyY7//2+9J4xX34Zg
+        kHoUA/SW//+/+c7//4uv4MdWc///D1n//z9IPYoBSi3//5OKUQwIXfwJSBEPPKe/Ji/gYMBj2ivyAg4G
+        3Ka8JC/gYMB1MtAAbAFDCMOAy6QX/xlsu59AucQBtZLrUNb//84TgQZYdTyGcokDyoXXwBqdJz7/7zTh
+        +X8G89aH/2+8+080VswHBghS1DMYN97HqhAXlsu5jGqAQd1dkADRQCbrIohCGKBbDYxcEoBUxgUQhTBA
+        o+wGOGRVi68BA+jqf6WCq/8V8q78l8+9DHTuJaCNl/5LZ14Ea5RMv/BfIu08kgH/GQCx8k0GG5aDjwAA
+        AABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="createPieChartItem1.Description" xml:space="preserve">
+    <value>Insert a pie chart.
+
+Pie charts display the contribution of each value to a total.
+
+Use it when values can be added together or when you have only one data series and all values are positive.
+    </value>
+  </data>
+  <data name="createPieChartItem1.Hint" xml:space="preserve">
+    <value>Insert a pie chart.
+
+Pie charts display the contribution of each value to a total.
+
+Use it when values can be added together or when you have only one data series and all values are positive.
+    </value>
+  </data>
+  <data name="createRotatedFullStackedBarChartItem1.Description" xml:space="preserve">
+    <value>Compare the percentage each value contributes to a total across categories using horizontal rectangles.
+
+Use it when the values on the chart represent durations or when the category text is very long.
+    </value>
+  </data>
+  <data name="createRotatedFullStackedBarChartItem1.Hint" xml:space="preserve">
+    <value>Compare the percentage each value contributes to a total across categories using horizontal rectangles.
+
+Use it when the values on the chart represent durations or when the category text is very long.
+    </value>
+  </data>
+  <data name="createArea3DChartItem1.Description" xml:space="preserve">
+    <value>Display data as filled areas on a diagram, with each data point displayed as a peak or hollow in the area. Use it when you need to show trends for several series on the same diagram, and also show the relationship of the parts to the whole.</value>
+  </data>
+  <data name="createArea3DChartItem1.Hint" xml:space="preserve">
+    <value>Display data as filled areas on a diagram, with each data point displayed as a peak or hollow in the area. Use it when you need to show trends for several series on the same diagram, and also show the relationship of the parts to the whole.</value>
+  </data>
+  <data name="createFullStackedArea3DChartItem1.Description" xml:space="preserve">
+    <value>Display data as areas on a diagram, so that the value of each data point is stacked with all the other corresponding data points' values.
+
+Use it for comparing the percentage values of several series for the same point arguments.
+    </value>
+  </data>
+  <data name="createFullStackedArea3DChartItem1.Hint" xml:space="preserve">
+    <value>Display data as areas on a diagram, so that the value of each data point is stacked with all the other corresponding data points' values.
+
+Use it for comparing the percentage values of several series for the same point arguments.
+    </value>
+  </data>
+  <data name="createFunnelChartItem1.Description" xml:space="preserve">
+    <value>Display a wide area at the top, indicating the total points' value, while other areas are proportionally smaller.
+
+Use it when it is necessary to represent stages in a sales process, show the amount of potential revenue for each stage, as well as identify potential problem areas in an organization's sales processes.
+    </value>
+  </data>
+  <data name="createFunnelChartItem1.Hint" xml:space="preserve">
+    <value>Display a wide area at the top, indicating the total points' value, while other areas are proportionally smaller.
+
+Use it when it is necessary to represent stages in a sales process, show the amount of potential revenue for each stage, as well as identify potential problem areas in an organization's sales processes.
+    </value>
+  </data>
+  <data name="createFunnel3DChartItem1.Description" xml:space="preserve">
+    <value>Display a wide area at the top, indicating the total points' value, while other areas are proportionally smaller.
+
+Use it when it is necessary to represent stages in a sales process, show the amount of potential revenue for each stage, as well as identify potential problem areas in an organization's sales processes.
+    </value>
+  </data>
+  <data name="createFunnel3DChartItem1.Hint" xml:space="preserve">
+    <value>Display a wide area at the top, indicating the total points' value, while other areas are proportionally smaller.
+
+Use it when it is necessary to represent stages in a sales process, show the amount of potential revenue for each stage, as well as identify potential problem areas in an organization's sales processes.
+    </value>
+  </data>
+  <data name="createStockChartItem1.Description" xml:space="preserve">
+    <value>Show variation in stock prices over the course of a day. The Open and Close prices are represented by left and right lines on each point, and the Low and High prices are represented by the bottom and top values of the vertical line which is shown at each point.</value>
+  </data>
+  <data name="createStockChartItem1.Hint" xml:space="preserve">
+    <value>Show variation in stock prices over the course of a day. The Open and Close prices are represented by left and right lines on each point, and the Low and High prices are represented by the bottom and top values of the vertical line which is shown at each point.</value>
+  </data>
+  <data name="createCandleStickChartItem1.Description" xml:space="preserve">
+    <value>Show the variation in the price of stock over the course of a day. The Open and Close prices are represented by a filled rectangle, and the Low and High prices are represented by the bottom and top values of the vertical line which is shown at each point.</value>
+  </data>
+  <data name="createCandleStickChartItem1.Hint" xml:space="preserve">
+    <value>Show the variation in the price of stock over the course of a day. The Open and Close prices are represented by a filled rectangle, and the Low and High prices are represented by the bottom and top values of the vertical line which is shown at each point.</value>
+  </data>
+  <data name="createSideBySideGanttChartItem1.Description" xml:space="preserve">
+    <value>Display horizontal bars along the time axis. Each bar represents a separate event with the start and end values, hence these charts are used to track different activities during the time frame.
+
+Use it when it's necessary to show activity bars from different series one above another, to compare their duration.
+    </value>
+  </data>
+  <data name="createSideBySideGanttChartItem1.Hint" xml:space="preserve">
+    <value>Display horizontal bars along the time axis. Each bar represents a separate event with the start and end values, hence these charts are used to track different activities during the time frame.
+
+Use it when it's necessary to show activity bars from different series one above another, to compare their duration.
+    </value>
+  </data>
+</root>

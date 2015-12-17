@@ -1,0 +1,9 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\bin\Debug\DevMultiChannelChartDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\bin\Debug\DevMultiChannelChartDemo.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\obj\Debug\DevMultiChannelChartDemo.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\obj\Debug\DevMultiChannelChartDemo.Form1.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\obj\Debug\DevMultiChannelChartDemo.Properties.Resources.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\obj\Debug\DevMultiChannelChartDemo.csproj.GenerateResource.Cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\obj\Debug\DevMultiChannelChartDemo.exe.licenses
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\obj\Debug\DevMultiChannelChartDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DevMultiChannelChartDemo\obj\Debug\DevMultiChannelChartDemo.pdb

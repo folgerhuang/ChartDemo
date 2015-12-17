@@ -1,0 +1,9 @@
+LIBRARY mypluslib
+EXPORTS
+mypluslibInitialize
+mypluslibInitializeWithHandlers
+mypluslibTerminate
+mypluslibPrintStackTrace
+mlxMyplus
+mlfMyplus
+

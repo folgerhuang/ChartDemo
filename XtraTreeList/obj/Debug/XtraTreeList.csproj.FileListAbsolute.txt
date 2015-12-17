@@ -1,0 +1,10 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\bin\Debug\XtraTreeList.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\bin\Debug\XtraTreeList.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\bin\Debug\XtraTreeList.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\obj\Debug\XtraTreeList.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\obj\Debug\XtraTreeList.Form1.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\obj\Debug\XtraTreeList.Properties.Resources.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\obj\Debug\XtraTreeList.csproj.GenerateResource.Cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\obj\Debug\XtraTreeList.exe.licenses
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\obj\Debug\XtraTreeList.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\XtraTreeList\obj\Debug\XtraTreeList.pdb

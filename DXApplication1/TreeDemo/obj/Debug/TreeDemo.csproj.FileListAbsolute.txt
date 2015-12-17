@@ -1,0 +1,11 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\bin\Debug\TreeDemo.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\bin\Debug\TreeDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\bin\Debug\TreeDemo.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.Form1.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.Form2.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.Properties.Resources.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.csproj.GenerateResource.Cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.exe.licenses
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\DXApplication1\TreeDemo\obj\Debug\TreeDemo.pdb

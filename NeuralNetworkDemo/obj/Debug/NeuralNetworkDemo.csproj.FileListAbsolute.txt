@@ -1,0 +1,6 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\Debug\NeuralNetworkDemo.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\Debug\NeuralNetworkDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\bin\Debug\NeuralNetworkDemo.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\obj\Debug\NeuralNetworkDemo.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\obj\Debug\NeuralNetworkDemo.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\NeuralNetworkDemo\obj\Debug\NeuralNetworkDemo.pdb

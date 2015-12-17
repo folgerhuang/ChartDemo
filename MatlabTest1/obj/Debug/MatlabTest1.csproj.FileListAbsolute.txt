@@ -1,0 +1,9 @@
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Debug\MatlabTest1.exe.config
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Debug\MatlabTest1.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\bin\Debug\MatlabTest1.pdb
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Debug\MatlabTest1.csprojResolveAssemblyReference.cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Debug\MatlabTest1.Form1.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Debug\MatlabTest1.Properties.Resources.resources
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Debug\MatlabTest1.csproj.GenerateResource.Cache
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Debug\MatlabTest1.exe
+C:\Users\SHIYU\Documents\Visual Studio 2013\Projects\ChartDemo\MatlabTest1\obj\Debug\MatlabTest1.pdb
